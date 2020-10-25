@@ -9,7 +9,7 @@ It contains all the files concerning Assignment 1 of the course:
 1.  **```scripts.py```**:
 > One file containing all the scripts of the Python HackerRank challenges requested by Assignment 1.
 2.  **```stamps```**:
-> Folder with all the screenshots attesting the submissions results for every challenge in HackerRank (from (3) to (20)).
+> Folder with all the PDF printouts attesting the submissions results for every challenge in HackerRank.
 
 
 
